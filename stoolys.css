@@ -85,7 +85,7 @@ img {
     background: 0 0;
     width: auto;
     border-radius: 10px;
-    box-shadow: #eae0f01a 0 0 15px 5px,#000 0 0 15em inset;
+    box-shadow: #ff0d00  0 0 8px 1px,#000 0 0 15em inset;
     padding: 10px;
     color: #ddd
 }
@@ -143,8 +143,8 @@ img {
 }
 
 .toptombol {
-    text-shadow: #000 0 0 5px,#fc0 0 0 5px,#fc0 0 0 15px;
-    color: #ff0d00;
+    text-shadow: #000 0 0 5px,#ffffff 0 0 5px,#ffffff 0 0 15px;
+    color: #ffffff;
     border: 2px solid #ff0d00;
     box-shadow: #ff0d00 0 0 15px inset,#ff0d00 0 0 15px;
     background: #000;
@@ -386,8 +386,7 @@ img {
 }
 
 .footer {
-    text-shadow: #ffd720 0 0 15px,#ffd720 0 0 15px,#ffd720 0 0 15px,#ffd720 0 0 15px,#ffd720 0 0 10px;
-    color: #000;
+    color: #ffffff;
     text-align: center;
     overflow: hidden;
     padding: 31px 0;
